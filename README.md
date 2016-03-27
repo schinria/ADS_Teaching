@@ -11,7 +11,7 @@
 #### Week 2
 - [Using R](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Example from Professor Mengqian LU](https://github.com/MRandomMax/EDAV/blob/master/Examples/John%20Snow%20Cholera%20Map.R)
-- [GitHub tutorial](https://github.com/TZstatsADS/Tutorial_GitHub)
+- [GitHub tutorial](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk2-Tutorial_GitHub-master)
 - [More plots by R](https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk2-Rplots.Rmd)
 
 #### Week 3
@@ -31,8 +31,14 @@
 No tutorial
 
 #### Week 7
-- [Model evaluation](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk6-Project_evaluation.key)
-- [Basic Image Analysis](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk6-image_analysis/)
+- [Project evaluation](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk6-Project_evaluation.key)
+- [Basic Image Analysis](https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk7-image_analysis/image_analysis.Rmd)
 - [Advanced Image Analysis: Overview](https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk7-image_analysis/ads_image_analysis_overview.pptx)
 - [Advanced Image Analysis: Tutorial](https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk7-image_analysis/advanced_image_analysis.md)
 - [Install CPU-Only Caffe on Mac OS (For Python Interface)](https://github.com/TZstatsADS/ADS_Teaching/blob/master/Tutorials/wk7-image_analysis/install_cpu-only_caffe_on_mac_os.md)
+
+#### Week 8
+- [Tutorial on model assessment](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk8-TutorialModelSelection.pdf)
+- [More details on Proj. Eval.](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk8-projeval.Rmd)
+- [Example evaluation.R](https://github.com/TZstatsADS/ADS_Teaching/tree/master/Tutorials/wk8-evaluation.R)
+
